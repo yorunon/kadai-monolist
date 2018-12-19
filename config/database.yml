@@ -42,7 +42,7 @@ test:
 #
 #   DATABASE_URL="mysql2://myuser:mypass@localhost/somedatabase"
 #
-# You can use this database configuration with:
+# You can use this database configuration wih:
 #
 #   production:
 #     url: <%= ENV['DATABASE_URL'] %>
